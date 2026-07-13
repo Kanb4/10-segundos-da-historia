@@ -56,7 +56,7 @@ export const decades = [
     animation: "bossa",
   },
   {
-    year: "1970",
+    year: "1968",
     title: "AI-5",
     subtitle: "O silêncio forçado",
     description:
@@ -99,7 +99,7 @@ export const decades = [
   },
   {
     year: "2002",
-    title: "Pentacam\npeão",
+    title: "Penta\ncampeão",
     subtitle: "O Brasil voltou ao topo",
     description:
       "Ronaldo, Rivaldo, Ronaldinho Gaúcho. O Brasil vence a Coreia do Sul na final e conquista o pentacampeonato mundial.",
