@@ -1,6 +1,6 @@
 export const decades = [
   {
-    year: "1920",
+    year: "1922",
     title: "Semana de\nArte Moderna",
     subtitle: "O grito de vanguarda",
     description:
@@ -15,17 +15,31 @@ export const decades = [
   },
   {
     year: "1950",
-    title: "Copa do Mundo",
-    subtitle: "O Maracanazo",
+    title: "Maraca\nnazão",
+    subtitle: "A dor que virou identidade",
     description:
-      "50 mil pessoas no Maracanã. O Brasil perde a final para o Uruguai. Uma ferida que vira identidade nacional.",
+      "70 mil pessoas no Maracanã. O Brasil perde a final para o Uruguai. Uma ferida que une o país pela primeira vez.",
     colors: {
       bg: "#0f4c3a",
       accent: "#f5c518",
       secondary: "#ffffff",
       text: "#fff",
     },
-    animation: "copa",
+    animation: "copa50",
+  },
+  {
+    year: "1958",
+    title: "Primeiro\nTítulo",
+    subtitle: "Pelé e a geração de ouro",
+    description:
+      "A Suíça recebe a Copa e o Brasil conquista o primeiro título. Pelé, com 17 anos, vira lenda. O futebol vira religião.",
+    colors: {
+      bg: "#1a3a1a",
+      accent: "#f5c518",
+      secondary: "#009c3b",
+      text: "#fff",
+    },
+    animation: "copa58",
   },
   {
     year: "1960",
@@ -56,6 +70,20 @@ export const decades = [
     animation: "aianove",
   },
   {
+    year: "1970",
+    title: "Três\nCopas",
+    subtitle: "O hepta campeão",
+    description:
+      "Jairzinho, Tostão, Rivellino, Pelé. O Brasil vence a Copa no México com o futebol mais bonito já jogado. Três títulos, uma estrela.",
+    colors: {
+      bg: "#005a2b",
+      accent: "#f5c518",
+      secondary: "#ffffff",
+      text: "#fff",
+    },
+    animation: "copa70",
+  },
+  {
     year: "1985",
     title: "Diretas\nJá",
     subtitle: "O povo nas ruas",
@@ -71,31 +99,17 @@ export const decades = [
   },
   {
     year: "2002",
-    title: "Lula\nPresidente",
-    subtitle: "Um novo capítulo",
+    title: "Pentacam\npeão",
+    subtitle: "O Brasil voltou ao topo",
     description:
-      "O operário vira presidente. Bolsa Família, redução da pobreza, Brasil no mapa econômico mundial. Polêmico? Sim. Histórico? Também.",
-    colors: {
-      bg: "#cc0000",
-      accent: "#ffffff",
-      secondary: "#ffcc00",
-      text: "#ffffff",
-    },
-    animation: "lula",
-  },
-  {
-    year: "2016",
-    title: "Rio\nOlimpíadas",
-    subtitle: "O Brasil em movimento",
-    description:
-      "Usain Bolt corre. Simone Biles voa. O Brasil ganha ouro em vôlei. O mundo inteiro olha pro Rio — e o Rio brilha.",
+      "Ronaldo, Rivaldo, Ronaldinho Gaúcho. O Brasil vence a Coreia do Sul na final e conquista o pentacampeonato mundial.",
     colors: {
       bg: "#006a4e",
       accent: "#f5c518",
-      secondary: "#00a86b",
+      secondary: "#009c3b",
       text: "#ffffff",
     },
-    animation: "olimpiadas",
+    animation: "copa02",
   },
   {
     year: "HOJE",
